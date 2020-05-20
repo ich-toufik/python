@@ -4,6 +4,6 @@ age = 2020 - int('1996')
 print(2020 - int('1996'))
 print(age)
 kg = 62
-g = 0.4
+g = 0.5
 wight = kg + g
 print(wight)

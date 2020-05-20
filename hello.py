@@ -11,5 +11,3 @@ print(user_name)
 
 b = 'thnx 2 fadi' * 1000
 print (b)
-
-
