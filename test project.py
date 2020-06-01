@@ -8,4 +8,3 @@ print(fname.upper() + " " + lname.upper())
 print(full_name.replace('toufik','tawfeek'))
 print(age)
 print(user_name)
-
